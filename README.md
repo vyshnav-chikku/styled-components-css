@@ -14,6 +14,11 @@
 
 ## cdn,fonts,icons,etc -
 
+const desktop = "1200px";
+const laptop = "1024px";
+const tablet = "768px";
+const phone = "480px";
+
 <script
    src="https://kit.fontawesome.com/c885607b72.js"
       crossorigin="anonymous"
