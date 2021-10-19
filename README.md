@@ -19,6 +19,7 @@
       crossorigin="anonymous"
  ></script>
 
+#### for using pro-icons
     <link
       rel="stylesheet"
       href="https://use.fontawesome.com/releases/v5.13.1/css/all.css"
