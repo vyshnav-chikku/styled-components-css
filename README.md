@@ -14,7 +14,6 @@
 
 ## cdn,fonts,icons,etc -
 
-<link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
 <script
    src="https://kit.fontawesome.com/c885607b72.js"
       crossorigin="anonymous"
